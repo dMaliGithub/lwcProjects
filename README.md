@@ -1,18 +1,7 @@
-# Salesforce DX Project: Next Steps
+This repository consists of 2 LWC guided projects.
+  1. BMI Calculator (https://ajsd141-dev-ed.develop.my.site.com/bmicalculator)
+  2. Alarm Clock (https://ajsd141-dev-ed.develop.my.site.com/alarm-clock)
+<img width="502" alt="BMICalculator" src="https://github.com/dMaliGithub/lwcProjects/assets/161150399/62a13d5d-28a8-405e-ba25-864dcd53d4f9">
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+<img width="537" alt="AlarmClock" src="https://github.com/dMaliGithub/lwcProjects/assets/161150399/adfbdf3f-d4d6-4a1c-80f5-e6e1efd8999a">
 
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
